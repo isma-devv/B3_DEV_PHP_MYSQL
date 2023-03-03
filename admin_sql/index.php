@@ -5,7 +5,7 @@ require_once '_inc/nav.php';
 
 ?>
 
-<h1>Home</h1>
+<h1>Home - Accueil</h1>
 
 <?php
 
